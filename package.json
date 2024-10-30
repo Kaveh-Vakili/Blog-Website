@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kaveh-Vakili/Blog-Website/issues"
   },
-  "homepage": "https://github.com/Kaveh-Vakili/Blog-Website#readme"
+  "homepage": "https://github.com/Kaveh-Vakili/Blog-Website#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
 }
